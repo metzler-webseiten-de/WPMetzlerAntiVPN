@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Metzler AntiVPN & Proxy Blocker
  * Description: Blockiert VPNs, Proxys und Datacenter-IPs mit professionellem Logging und echtem SEO-Bot-Bypass (DSGVO-konform).
- * Version: 2.0.0
+ * Version: 1.0.0
  * Author: Tiziano Santo Metzler
  */
 
